@@ -6,5 +6,4 @@ To be able to code the micro:bit to use and control the neopixel ring, a new lib
 ![Adding NeoPixel Extension.](https://raw.githubusercontent.com/rypsmith/neopixel-ring-tutorial/master/neoPixelExtension.gif)
 
 ## Step 2 - Initialize the neoPixelExtension
-
-Yo.
+I wonder how to place NeoPixel blocks?
